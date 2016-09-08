@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BB6049C7F5979050CA475E34F61476EA3A404049+++A2E0248",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BB6049C7F5979050CA475E34F61476EA3A404049+++C0F3162" : 0,
+    "BB6049C7F5979050CA475E34F61476EA3A404049+++9BEB02A" : 0,
+    "BB6049C7F5979050CA475E34F61476EA3A404049+++A2E0248" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1B8FEE94-6D83-4F32-8882-77C7D50BC1CD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BB6049C7F5979050CA475E34F61476EA3A404049+++C0F3162" : "MusicPlayer",
+    "BB6049C7F5979050CA475E34F61476EA3A404049+++9BEB02A" : "MusicPlayer",
+    "BB6049C7F5979050CA475E34F61476EA3A404049+++A2E0248" : "MusicPlayer\/MusicPlayer\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MusicPlayer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MusicPlayer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/A01123748\/MusicPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB6049C7F5979050CA475E34F61476EA3A404049+++9BEB02A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/A01123748\/MusicPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB6049C7F5979050CA475E34F61476EA3A404049+++A2E0248"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/A01123748\/MusicPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB6049C7F5979050CA475E34F61476EA3A404049+++C0F3162"
+    }
+  ]
+}
